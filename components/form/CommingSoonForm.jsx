@@ -13,7 +13,7 @@ export default function CommingSoonForm() {
     <form onClick="">
       <input
         placeholder="SANTA"
-        maxlength="5"
+        maxLength="5"
         onInput={(e) => e.target.value = e.target.value.toUpperCase()}
       />
       <button>Join Secret Santa</button>

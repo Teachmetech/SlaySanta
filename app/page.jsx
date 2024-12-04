@@ -27,6 +27,9 @@ const Home = () => {
             </div>
           </div>
           <CommingSoonForm />
+          <p className="info-text">
+            Need to make a Secret Santa? <Link href="login">Create one now!</Link>
+          </p>
           <Image width={94} height={188}
             src="/images/shape/santa_1.svg"
             alt="shape"
