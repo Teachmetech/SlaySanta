@@ -2,7 +2,7 @@ import CommingSoonForm from "@/components/form/CommingSoonForm";
 import Image from "next/image";
 import Link from "next/link";
 export const metadata = {
-  title: 'Home || SantaSlay',
+  title: 'Home || SlaySanta',
   description: `Tis' the season`,
 }
 
