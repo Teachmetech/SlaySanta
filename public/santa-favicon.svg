@@ -1,0 +1,22 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Santa Hat -->
+  <path d="M4 20 C4 14, 8 10, 16 10 C24 10, 28 14, 28 20 L28 24 C28 26, 26 28, 24 28 L8 28 C6 28, 4 26, 4 24 Z" fill="#DC2626"/>
+  <circle cx="26" cy="8" r="3" fill="#FFFFFF"/>
+  <path d="M16 10 Q20 6, 26 8" stroke="#DC2626" stroke-width="2" fill="none"/>
+  
+  <!-- Face -->
+  <circle cx="16" cy="20" r="8" fill="#FBBF24"/>
+  
+  <!-- Eyes -->
+  <circle cx="13" cy="18" r="1.5" fill="#000000"/>
+  <circle cx="19" cy="18" r="1.5" fill="#000000"/>
+  
+  <!-- Beard -->
+  <path d="M16 22 Q12 24, 8 22 Q10 26, 16 26 Q22 26, 24 22 Q20 24, 16 22" fill="#FFFFFF"/>
+  
+  <!-- Mustache -->
+  <ellipse cx="16" cy="21" rx="3" ry="1" fill="#FFFFFF"/>
+  
+  <!-- Nose -->
+  <circle cx="16" cy="20" r="1" fill="#F87171"/>
+</svg> 
